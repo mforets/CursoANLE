@@ -1,0 +1,16 @@
+*.aux
+*.log
+*.bbl
+*.out
+*.gz
+
+*.ipynb
+
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/deps.jl
+*.DS_Store
+
+docs/build/
+docs/site/
