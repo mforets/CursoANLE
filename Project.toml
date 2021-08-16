@@ -1,6 +1,4 @@
-name = "AnalisisModalEstructural"
-uuid = "ab970933-2879-4166-8151-057939dffbe5"
-authors = ["Bruno Bazzano <bbazzzano@fing.edu.uy>",
-	   "Marcelo Forets <mforets@gmail.com>",
-           "Jorge Perez Zerpa <jorgepz@fing.edu.uy>"]
+name = "CursoANLE"
+uuid = "a75615f0-ac28-4b67-a030-1071cefd79d9"
+authors = ["mforets <mforets@gmail.com>"]
 version = "0.1.0"
